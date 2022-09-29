@@ -11,6 +11,6 @@
 > ⚠️ When running cypress by open GUI on windows machine, there will be an popup to ask firewall permission. Please accept it
 
 ## Set up project to run
-* Clone the repo: `git clone `
+* Clone the repo: `git clone https://github.com/AnneHongChu/cypress-hongchu.git`
 * Go to the directory above -> Run `npm install or yarn install` on a terminal
 * Run `npm run cypress:open | yarn cypress:open` for GUI or run `npm run cypress:run | yarn cypress:run` for headless mode
