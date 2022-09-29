@@ -10,6 +10,8 @@
 
 > ⚠️ When running cypress by open GUI on windows machine, there will be an popup to ask firewall permission. Please accept it
 
+> ⚠️ when installing the project it might take time to install. Please be patient
+
 ## Set up project to run
 * Clone the repo: `git clone https://github.com/AnneHongChu/cypress-hongchu.git`
 * Go to the directory above -> Run `npm install or yarn install` on a terminal
